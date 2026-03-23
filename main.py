@@ -7,6 +7,8 @@ model = YOLO('best.pt')
 input_path = 'input_images/test.jpg'
 output_dir = 'output_images'
 
+os.makedirs(output_dir, exist_ok=True)
+
 image = Image.open(input_path)
 
 results = model(image)

@@ -1,2 +1,2 @@
-# FashionV
-Analyzing your fringue with Computer Vision and AI
+# Fashion Vision
+Analyzing your fringue👗👖 with Computer Vision and AI
