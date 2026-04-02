@@ -4,8 +4,11 @@ COMMON_ATTRIBUTES = {
         "gray", "brown", "beige", "purple", "orange", "multicolor"
     ],
     "pattern": [
-        "solid no pattern", "striped", "floral", "checkered/plaid", 
+        "solid", "striped", "floral", "checkered/plaid", 
         "polka dot", "graphic print", "animal print"
+    ],
+    "material": [
+        ["denim", "leather", "knitted", "lace", "shiny/satin"]
     ]
 }
 
